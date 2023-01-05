@@ -1,0 +1,23 @@
+{
+  "name": "my-third-repo",
+  "version": "1.0.0",
+  "description": "None",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sqcodeworks/my-third-repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sqcodeworks/my-third-repo/issues"
+  },
+  "homepage": "https://github.com/sqcodeworks/my-third-repo#readme",
+  "devDependencies": {
+    "@types/node": "^18.11.18"
+  }
+}
